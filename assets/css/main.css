@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #312450;
+			background: #101935;
 		}
 
 		select:focus::-ms-value {
