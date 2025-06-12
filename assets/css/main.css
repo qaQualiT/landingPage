@@ -3765,10 +3765,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #101935, #60f0d2);
-				background-image: -webkit-linear-gradient(to right, #101935, #60f0d2);
-				background-image: -ms-linear-gradient(to right, #101935, #60f0d2);
-				background-image: linear-gradient(to right, #101935, #60f0d2);
+				background-image: -moz-linear-gradient(to right, #60f0d2, #101935);
+				background-image: -webkit-linear-gradient(to right, #60f0d2, #101935);
+				background-image: -ms-linear-gradient(to right, #60f0d2, #101935);
+				background-image: linear-gradient(to right, #60f0d2, #101935);
 				-moz-transition: max-width 0.25s ease;
 				-webkit-transition: max-width 0.25s ease;
 				-ms-transition: max-width 0.25s ease;
@@ -3781,7 +3781,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a.active {
-				color: #ffffff;
+				color: #101935;
 			}
 
 				#sidebar nav a.active:after {
