@@ -3504,7 +3504,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(255, 255, 255, 0.15);
+		border-bottom-color: #101935;
 	}
 
 		#footer > .inner a:hover {
