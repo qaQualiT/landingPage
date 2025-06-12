@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #41e7be, #60f0d2);
-				background-image: -webkit-linear-gradient(to right, #41e7be, #60f0d2);
-				background-image: -ms-linear-gradient(to right, #41e7be, #60f0d2);
-				background-image: linear-gradient(to right, #41e7be, #60f0d2);
+				background-image: -moz-linear-gradient(to right, #101935, ##070b1a);
+				background-image: -webkit-linear-gradient(to right, #101935, ##070b1a);
+				background-image: -ms-linear-gradient(to right, #101935, ##070b1a);
+				background-image: linear-gradient(to right, #101935, ##070b1a);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -1833,7 +1833,7 @@ input, select, textarea {
 		transition: border-color 0.2s ease;
 		background-color: transparent;
 		border: solid 1px !important;
-		border-color: #101935 !important;
+		border-color: #41e7be !important;
 		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
@@ -1915,7 +1915,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #101935 !important;
+			color: #41e7be !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -1965,7 +1965,7 @@ input, select, textarea {
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				border-color: #101935 !important;
+				border-color: #41e7be !important;
 			}
 
 				input[type="submit"]:hover:active:after,
@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #101935;
+			background: #41e7be;
 		}
 
 		select:focus::-ms-value {
@@ -3240,7 +3240,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #41e7be;
+			background-color: #101935;
 		}
 
 		.wrapper.style1-alt {
