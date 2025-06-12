@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/newnoi", "destination": "/newnoi.html" },
+    { "source": "/intersicanewinspectorapplication", "destination": "/intersicaNewInspectorApplication.html" }
+  ]
+}
