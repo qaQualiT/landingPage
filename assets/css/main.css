@@ -3236,7 +3236,7 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #101935;
 		}
 
 		.wrapper.style1 {
@@ -3504,7 +3504,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: #101935;
+		border-bottom-color: rgba(255, 255, 255, 0.15);
 	}
 
 		#footer > .inner a:hover {
