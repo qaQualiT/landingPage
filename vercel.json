@@ -1,8 +1,8 @@
 {
   "rewrites": [
-    { "source": "/newnoi", "destination": "/newnoi.html" },
-    { "source": "/intinspapp", "destination": "/intinspapp.html" },
-    { "source": "/uploadreport", "destination": "/uploadreport.html" },
-    { "source": "/newuser", "destination": "/newuser.html" }
+    { "source": "/newnoi", "destination": "pages/newnoi.html" },
+    { "source": "/intinspapp", "destination": "pages/intinspapp.html" },
+    { "source": "/uploadreport", "destination": "pages/uploadreport.html" },
+    { "source": "/newuser", "destination": "pages/newuser.html" }
   ]
 }
