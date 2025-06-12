@@ -2,6 +2,7 @@
   "rewrites": [
     { "source": "/newnoi", "destination": "/newnoi.html" },
     { "source": "/intinspapp", "destination": "/intinspapp.html" },
-    { "source": "/uploadreport", "destination": "/uploadreport.html" }
+    { "source": "/uploadreport", "destination": "/uploadreport.html" },
+    { "source": "/newuser", "destination": "/newuser.html" }
   ]
 }
