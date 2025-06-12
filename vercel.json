@@ -3,6 +3,7 @@
     { "source": "/newnoi", "destination": "pages/newnoi.html" },
     { "source": "/intinspapp", "destination": "pages/intinspapp.html" },
     { "source": "/uploadreport", "destination": "pages/uploadreport.html" },
-    { "source": "/newuser", "destination": "pages/newuser.html" }
+    { "source": "/newuser", "destination": "pages/newuser.html" },
+    { "source": "/agencies", "destination": "pages/agencies.html" }
   ]
 }
