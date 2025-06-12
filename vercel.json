@@ -2,5 +2,6 @@
   "rewrites": [
     { "source": "/newnoi", "destination": "/newnoi.html" },
     { "source": "/intinspapp", "destination": "/intinspapp.html" }
+    { "source": "/uploadreport", "destination": "/uploadreport.html" }
   ]
 }
